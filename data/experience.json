@@ -1,26 +1,14 @@
 [
     {
-        "role": "Developer",
-        "company": "[HIT Social Computing and Information Retrieval Research Center](http://ir.hit.edu.cn/)",
-        "summary": "[Development Language Technology Platform v4](https://github.com/HIT-SCIR/ltp)",
-        "range": "September 2019 - NOW"
+        "role": " QA Engineer : Tamheer Program - Fulltime",
+        "company": "[Penny Softwere](https://penny.co/)",
+        "summary": "I worked as QA Engineer with the QA team to develop and maintain end-to-end automated testing using TestCafe and perform manual tests. Discover, report bugs and follow up with the fixes. Designed and developed a toolkit to speed up the manual testing process. Conducted penetration testing to discover and report vulnerabilities. Collected and tested clients' cyber security requirements.",
+        "range": "Jan 2022 - NOW"
     },
     {
-        "role": "Developer",
-        "company": "[Yunfutech](https://www.yunfutech.com/)",
-        "summary": "Developmet a collections of nlp tools",
-        "range": "July 2019 -  September 2019"
-    },
-    {
-        "role": "Developer",
-        "company": "[HIT Web Intellegence Lab](http://wi.hit.edu.cn/)",
-        "summary": "Implemented English part and management Tool of WI IME",
-        "range": "July 2018 - September 2018"
-    },
-    {
-        "role": "Developer",
-        "company": "[HIT Social Computing and Information Retrieval Research Center](http://ir.hit.edu.cn/)",
-        "summary": "[Development Language Technology Platform v3](https://github.com/HIT-SCIR/ltp/tree/3.X)",
-        "range": "September 2017 -  December 2017"
+        "role": "Technical Analyst : CO-OP Intership",
+        "company": "[Saudi Aramco](https://www.aramco.com/)",
+        "summary": "Analyse SAP applications",
+        "range": "Jun 2021 -  Aug 2021"
     }
 ]

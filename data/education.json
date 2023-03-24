@@ -1,16 +1,30 @@
 [
     {
-        "school": "[Harbin Institute of Technology](https://hit.edu.cn)",
-        "degree": "Computer Science and Technology",
-        "major": "Linear algebra, Multivariable calculus, Algorithm",
-        "notes": "Bachelor of Engineering",
-        "range": "2016 - 2020"
+        "school": "[SDA x Udacity](https://sda.edu.sa/rise)",
+        "degree": "Full stack JavaScript Developer NanoDegree",
+        "major": "Node.js, TypeScript, Express.js, PostgresSQL, Angular, AWS",
+        "notes": "Projects: ...",
+        "range": "Sep 2022 - Jan2023"
     },
     {
-        "school": "[Harbin Institute of Technology](https://hit.edu.cn)",
-        "degree": "Computer Science and Technology",
-        "major": "Natural language processing",
-        "notes": "Master of Engineering & PhD",
-        "range": "2020 - NOW"
+        "school": "[Misk x Samsung Innovation Campus](https://hub.misk.org.sa)",
+        "degree": "Artificial Intelligence",
+        "major": "",
+        "notes": "Course Final project, Emotion Detection (using images): worked with a team of four to design, implement, train, and evaluate a deep learning model to detect emotions from a set of labeled images. For this project we used python as a programming language utilizing numpy, pandas, matplotlib, kerase, TensorFlow, openCV, and Albumenations libraries. At the end we made a mode with 90% accuracy.",
+        "range": "Jan 2022 - Mar 2022"
+    },
+    {
+        "school": "[Prince Mohammad bin Fahd University](https://www.pmu.edu.sa)",
+        "degree": "Computer Science",
+        "major": "",
+        "notes": "Graduated Magna Cum Laude, with a 3.77 CGPA. Excelled in all major related courses and grew an interest in AI and Computer Vision.",
+        "range": "Jan 2018 - Aug 2021"
+    },
+    {
+        "school": "[Marmara University](https://tip.marmara.edu.tr/en)",
+        "degree": "Medical School",
+        "major": "",
+        "notes": "Started as an English as a Second Language (ESL) Student for the first year. Completed 43 credit hours towards a degree in medicine. ",
+        "range": "Aug 2013 - Aug 2017"
     }
 ]

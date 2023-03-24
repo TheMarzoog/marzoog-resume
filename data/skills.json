@@ -2,37 +2,48 @@
   {
     "grouping": "Languages, Operating Systems & Tools",
     "skills": [
-      "Cplusplus",
-      "Rust",
-      "Java",
       "Python",
+      "Java",
       "git",
       "linux",
       "bash",
-      "javascript"
-    ]
-  },
-  {
-    "grouping": "Platform Development & Administration",
-    "skills": [
-      "NGINX",
-      "MySQL",
+      "TypeScript",
+      "JavaScript",
       {
-        "name": "Slurm",
+        "name":"Angular",
+        "icon": "angularjs"
+      },
+      {
+        "name": "Express.js",
+        "icon": "nodejs"
+
+      },
+      {
+        "name": "Node.js",
+        "icon": "nodejs"
+      },
+      "nestjs",
+      "pytest",
+      {
+        "name": "postman",
+        "icon": "bash"
+      },
+      {
+        "name": "ZAP",
         "icon": "bash"
       }
     ]
   },
   {
-    "grouping": "Data Management",
+    "grouping": "DataBases",
     "skills": [
       {
-        "name": "MySQL/MariaDB",
-        "icon": "MySQL"
+        "name": "PostgreSQL",
+        "icon": "PostgreSQL"
       },
       {
-        "name": "Sqlite",
-        "icon": "bash"
+        "name": "MongoDB",
+        "icon": "mongodb"
       }
     ]
   },
@@ -40,27 +51,15 @@
     "grouping": "Architecture",
     "skills": [
       {
-        "name": "IP Networking",
+        "name": "RESTful APIs",
         "icon": "bash"
       },
       {
-        "name": "DNS",
-        "icon": "bash"
-      },
-      {
-        "name": "Firewalls",
-        "icon": "bash"
-      },
-      {
-        "name": "Load Balancing",
+        "name": "RabbitMQ",
         "icon": "bash"
       },
       {
         "name": "Microservices",
-        "icon": "bash"
-      },
-      {
-        "name": "RESTful APIs",
         "icon": "bash"
       }
     ]
@@ -76,6 +75,28 @@
         "name": "Aliyun",
         "link": "https://aliyun.com",
         "icon": "bash"
+      },
+      {
+        "name": "Google Cloud",
+        "icon": "googlecloud"
+      },
+      {
+        "name":"AWS",
+        "link": "https://aws.amazon.com",
+        "icon": "amazonwebservices"
+      }
+    ]
+  },
+  {
+    "grouping": "Content Creation",
+    "skills": [
+      {
+        "name": "Photograpy & Photo Editing",
+        "icon":"Photoshop"
+      },
+      {
+        "name": "videography & Vidoe Editing",
+        "icon": "aftereffects"
       }
     ]
   }
