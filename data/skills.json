@@ -54,7 +54,7 @@
     "grouping": "Architecture",
     "skills": [
       {
-        "name": "RESTful APIs",
+        "name": "REST APIs",
         "icon": "bash"
       },
       {
@@ -75,11 +75,6 @@
         "link": "https://docker.com"
       },
       {
-        "name": "Aliyun",
-        "link": "https://aliyun.com",
-        "icon": "bash"
-      },
-      {
         "name": "Google Cloud",
         "icon": "googlecloud"
       },
@@ -98,7 +93,7 @@
         "icon":"Photoshop"
       },
       {
-        "name": "videography & Vidoe Editing",
+        "name": "Videography & Vidoe Editing",
         "icon": "aftereffects"
       }
     ]

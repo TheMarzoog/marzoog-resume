@@ -26,7 +26,6 @@ taxonomies:
 
 <img src="/media/unt_group.jpeg">
 
-
 ### What's after the program
 
 <img src="/media/drmark.png">

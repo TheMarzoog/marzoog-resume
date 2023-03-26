@@ -2,8 +2,8 @@
     {
         "school": "[SDA x Udacity](https://sda.edu.sa/rise)",
         "degree": "Full stack JavaScript Developer NanoDegree",
-        "major": "Node.js, TypeScript, Express.js, PostgresSQL, Angular, AWS",
-        "notes": "Projects: ...",
+        "major": "Node.js, TypeScript, Express.js, PostgreSQL, Angular, AWS",
+        "notes": "Projects: <ol type='1'><li><a href='https://github.com/marzoogtech/image-processing-api'>1.Image Processing API</a></li><li><a href='https://github.com/marzoogtech/store-backend'>2.Build a Storefront Backend</a></li><li><a href='https://github.com/marzoogtech/my-store'>3.My Store</a></li><li><a href='https://github.com/marzoogtech/nd0067-c2-creating-an-api-with-postgresql-and-express-project-starter'>4.Hosting a Full Stack Application</a></li></ol>Badges:<br> <img src= '/media/RISE EARLY GRAD BADGE.png' style='width:20em; height:20em;'> <img src='/media/Most+Engaged+Option+5.png' style='width:20em; height:20em;'>",
         "range": "Sep 2022 - Jan2023"
     },
     {
@@ -24,7 +24,7 @@
         "school": "[Marmara University](https://tip.marmara.edu.tr/en)",
         "degree": "Medical School",
         "major": "",
-        "notes": "Started as an English as a Second Language (ESL) Student for the first year. Completed 43 credit hours towards a degree in medicine. ",
+        "notes": "Started as an English as a Second Language (ESL) Student for the first year. Completed 43 credit hours towards a degree in medicine.",
         "range": "Aug 2013 - Aug 2017"
     }
 ]
