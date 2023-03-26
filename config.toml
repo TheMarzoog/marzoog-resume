@@ -17,7 +17,7 @@ first_name = "Marzoog"
 last_name = "AlGhazwi"
 address = "Eastern Province, Saudi Arabia"
 email = "marzoog.m.alghazwi@gmail.com"
-favicon = "/media/marzoog_400x400.jpg"
+favicon = "/eimad.ico"
 avatar = "/media/marzoog-p.JPG"
 
 katex = false
